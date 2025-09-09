@@ -42,7 +42,7 @@ Git: Para clonar y gestionar el repositorio
 
 Clonar el repositorio:
 
-git clone <URL_DEL_REPOSITORIO> cd vip2cars
+git clone https://github.com/gabo171297/vip2cars.git cd vip2cars
 
 Instalar dependencias:
 
