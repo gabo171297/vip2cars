@@ -56,7 +56,7 @@ cp .env.example .env
 
 Edita .env con tu configuración de base de datos:
 
-DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=vip2cars_db DB_USERNAME=root DB_PASSWORD=tu_contraseña
+DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=vip2cars_db DB_USERNAME=root DB_PASSWORD=
 
 Crea la base de datos vip2cars_db en MySQL:
 
